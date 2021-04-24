@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "generated_timestamp": 1619033887,
+    "ref_url": "https://www.sodexo.fi/en/node/159",
+    "ref_title": "Technopolis Innopoli 1"
+  },
+  "timeperiod": "19.4. - 25.4.",
+  "mealdates": [
+    {
+      "date": "Monday",
+      "courses": {
+        "1": {
+          "title_fi": "\"Eat you veggies and more\" Kaikki green market tuotteet kuuluvat buffetin hintaan!",
+          "title_en": "\"Eat your veggies and more\" All green market items are included in the buffet!",
+          "category": "GREEN MARKET LUNCH BUFFET",
+          "price": "10,70 €",
+          "recipes": {
+            "0": {
+              "name": "TOMAATTI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 95.00 kJ | Energia/Energy: 23.00 kcal | Rasva/Fat: 0.30 g | Hiilihydraatit/Carbohydrate: 3.50 g | Proteiinit/Protein: 0.60 g | Kuidut/Fibre: 1.40 g | Suola/Salt: 0.00 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "2": {
+          "title_fi": "Runsas ja monipuolinen valikoima suurimmaksi osaksi kasvispohjaisia tuoreita raaka-aineita, tahnoja, kastikkeita, riportteita",
+          "title_en": "Plentiful selection of mostly plant based, fresh ingredients, spreads, sauces and sprinkles",
+          "category": "GREEN MARKET VEGGIES"
+        },
+        "3": {
+          "title_fi": "Tomaatti-vuohenjuustokeitto",
+          "title_en": "Tomato and goat cheese soup",
+          "category": "GREEN MARKET VEGGIE SOUP",
+          "dietcodes": "G, VL",
+          "properties": "G, VL",
+          "additionalDietInfo": {
+            "allergens": "Milk, Celery"
+          }
+        },
+        "4": {
+          "title_fi": "Kievinkanaa, currymajoneesia sekä paahdettua perunaa ja kasviksia",
+          "title_en": "Chicken Kiev, curry mayonnaise, roasted potatoes and vegetables",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "VL",
+          "properties": "VL",
+          "additionalDietInfo": {
+            "allergens": "Cereals containing gluten, Milk, Eggs, Garlic, Wheat"
+          },
+          "recipes": {
+            "0": {
+              "name": "PAAHDETTU PERUNA JA PAPRIKA",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 309.61 kJ | Energia/Energy: 73.88 kcal | Rasva/Fat: 1.24 g | Hiilihydraatit/Carbohydrate: 12.80 g | Proteiinit/Protein: 1.70 g | Kuidut/Fibre: 1.35 g | Suola/Salt: 0.50 g"
+            },
+            "1": {
+              "name": "KIEVIN KANA",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1180.00 kJ | Energia/Energy: 280.00 kcal | Rasva/Fat: 18.00 g | Hiilihydraatit/Carbohydrate: 17.00 g | Proteiinit/Protein: 13.00 g | Kuidut/Fibre: 0.40 g | Suola/Salt: 0.89 g"
+            },
+            "2": {
+              "name": "CURRYMAJONEESI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1800.25 kJ | Energia/Energy: 440.30 kcal | Rasva/Fat: 45.99 g | Hiilihydraatit/Carbohydrate: 4.43 g | Proteiinit/Protein: 0.88 g | Kuidut/Fibre: 0.83 g | Suola/Salt: 0.96 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "5": {
+          "title_fi": "Linssi-munakoisokormaa ja riisiä ",
+          "title_en": "Lentil and aubergine Korma and rice (Vegan)",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "G, M",
+          "properties": "G, M",
+          "additionalDietInfo": {
+            "dietcodeImages": [
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/vege.svg"
+            ],
+            "allergens": "Celery, Garlic"
+          },
+          "recipes": {
+            "0": {
+              "name": "KEITETTY RIISI tumma",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 523.18 kJ | Energia/Energy: 125.15 kcal | Rasva/Fat: 1.69 g | Hiilihydraatit/Carbohydrate: 24.93 g | Proteiinit/Protein: 2.57 g | Kuidut/Fibre: 0.80 g | Suola/Salt: 0.38 g"
+            },
+            "1": {
+              "name": "vegaani LINSSI-MUNAKOISO KORMA ",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 429.74 kJ | Energia/Energy: 102.43 kcal | Rasva/Fat: 6.83 g | Hiilihydraatit/Carbohydrate: 7.15 g | Proteiinit/Protein: 2.50 g | Kuidut/Fibre: 1.68 g | Suola/Salt: 0.71 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "6": {
+          "title_fi": "Hehkun herkku buffet",
+          "title_en": "Hehku´s dessert bufee",
+          "category": "Sweet",
+          "dietcodes": "G",
+          "properties": "G",
+          "additionalDietInfo": {
+            "allergens": "Milk, Eggs, Soy beans"
+          }
+        }
+      }
+    },
+    {
+      "date": "Tuesday",
+      "courses": {
+        "1": {
+          "title_fi": "\"Eat you veggies and more\" Kaikki green market tuotteet kuuluvat buffetin hintaan!",
+          "title_en": "\"Eat your veggies and more\" All green market items are included in the buffet!",
+          "category": "GREEN MARKET LUNCH BUFFET",
+          "price": "10,70 €",
+          "recipes": {
+            "0": {
+              "name": "TOMAATTI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 95.00 kJ | Energia/Energy: 23.00 kcal | Rasva/Fat: 0.30 g | Hiilihydraatit/Carbohydrate: 3.50 g | Proteiinit/Protein: 0.60 g | Kuidut/Fibre: 1.40 g | Suola/Salt: 0.00 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "2": {
+          "title_fi": "Runsas ja monipuolinen valikoima suurimmaksi osaksi kasvispohjaisia tuoreita raaka-aineita, tahnoja, kastikkeita, riportteita",
+          "title_en": "Plentiful selection of mostly plant based, fresh ingredients, spreads, sauces and sprinkles",
+          "category": "GREEN MARKET VEGGIES"
+        },
+        "3": {
+          "title_fi": "Chilillä maustettu tomaatti-paprikakeitto",
+          "title_en": "Tomato and sweet pepper soup seasoned with chili",
+          "category": "GREEN MARKET VEGGIE SOUP",
+          "dietcodes": "G, M",
+          "properties": "G, M",
+          "additionalDietInfo": {
+            "allergens": "Celery"
+          },
+          "recipes": {
+            "0": {
+              "name": "CHILILLÄ MAUSTETTU TOMAATTI-PAPRIKAKEITTO",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 102.96 kJ | Energia/Energy: 24.48 kcal | Rasva/Fat: 0.75 g | Hiilihydraatit/Carbohydrate: 3.02 g | Proteiinit/Protein: 0.73 g | Kuidut/Fibre: 0.86 g | Suola/Salt: 0.19 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "4": {
+          "title_fi": "Jauhelihamureketta, kermakastiketta, papu-punasipulipaistosta ja perunaa",
+          "title_en": "Meat loaf, cream sauce, potatoes, bean and onion bake",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "G, L",
+          "properties": "G, L",
+          "additionalDietInfo": {
+            "dietcodeImages": [
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/possu.svg",
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/liha-fi-new.svg"
+            ],
+            "allergens": "Milk, Eggs, Beef, Mustard, Garlic"
+          }
+        },
+        "5": {
+          "title_fi": "Parsakaali-papupastaa",
+          "title_en": "Broccoli and bean pasta (Vegan)",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "M",
+          "properties": "M",
+          "additionalDietInfo": {
+            "dietcodeImages": [
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/vege.svg"
+            ],
+            "allergens": "Cereals containing gluten, Celery, Soy beans, Wheat"
+          },
+          "recipes": {
+            "0": {
+              "name": "vegaani PARSAKAALI-PAPU PASTAKASTIKE",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 214.98 kJ | Energia/Energy: 51.33 kcal | Rasva/Fat: 1.35 g | Hiilihydraatit/Carbohydrate: 6.06 g | Proteiinit/Protein: 2.36 g | Kuidut/Fibre: 2.31 g | Suola/Salt: 0.55 g"
+            },
+            "1": {
+              "name": "KEITETTY KIERREPASTA tumma",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 508.81 kJ | Energia/Energy: 120.70 kcal | Rasva/Fat: 1.51 g | Hiilihydraatit/Carbohydrate: 23.50 g | Proteiinit/Protein: 3.86 g | Kuidut/Fibre: 2.69 g | Suola/Salt: 0.00 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "6": {
+          "title_fi": "Suklaamoussea ja kinuskikastiketta",
+          "title_en": "Chocolate mousse with caramel sauce",
+          "category": "Sweet",
+          "dietcodes": "G",
+          "properties": "G",
+          "additionalDietInfo": {
+            "allergens": "Milk"
+          },
+          "recipes": {
+            "0": {
+              "name": "MOUSSE SUKLAA nopea",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 603.34 kJ | Energia/Energy: 143.84 kcal | Rasva/Fat: 4.71 g | Hiilihydraatit/Carbohydrate: 18.95 g | Proteiinit/Protein: 5.07 g | Kuidut/Fibre: 2.04 g | Suola/Salt: 0.08 g"
+            },
+            "hideAll": {
+              "dietcodes": "G"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "Wednesday",
+      "courses": {
+        "1": {
+          "title_fi": "\"Eat you veggies and more\" Kaikki green market tuotteet kuuluvat buffetin hintaan!",
+          "title_en": "\"Eat your veggies and more\" All green market items are included in the buffet!",
+          "category": "GREEN MARKET LUNCH BUFFET",
+          "price": "10,70 €",
+          "recipes": {
+            "0": {
+              "name": "TOMAATTI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 95.00 kJ | Energia/Energy: 23.00 kcal | Rasva/Fat: 0.30 g | Hiilihydraatit/Carbohydrate: 3.50 g | Proteiinit/Protein: 0.60 g | Kuidut/Fibre: 1.40 g | Suola/Salt: 0.00 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "2": {
+          "title_fi": "Runsas ja monipuolinen valikoima suurimmaksi osaksi kasvispohjaisia tuoreita raaka-aineita, tahnoja, kastikkeita, riportteita",
+          "title_en": "Plentiful selection of mostly plant based, fresh ingredients, spreads, sauces and sprinkles",
+          "category": "GREEN MARKET VEGGIES"
+        },
+        "3": {
+          "title_fi": "Herkkusienikeittoa",
+          "title_en": "Mushroom soup",
+          "category": "GREEN MARKET VEGGIE SOUP",
+          "dietcodes": "G, L",
+          "properties": "G, L",
+          "additionalDietInfo": {
+            "allergens": "Milk, Celery"
+          },
+          "recipes": {
+            "0": {
+              "name": "HERKKUSIENIKEITTO",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 204.97 kJ | Energia/Energy: 48.96 kcal | Rasva/Fat: 2.74 g | Hiilihydraatit/Carbohydrate: 4.29 g | Proteiinit/Protein: 1.37 g | Kuidut/Fibre: 0.63 g | Suola/Salt: 0.68 g"
+            },
+            "hideAll": {
+              "dietcodes": "L"
+            }
+          }
+        },
+        "4": {
+          "title_fi": "Wallenbergin kalapihvi, tilli-valkoviinikastiketta sekä perunoita ja herneitä",
+          "title_en": "Wallenberg´s fish patties with dill- white wine sauce and potatoes and peas",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "VL",
+          "properties": "VL",
+          "additionalDietInfo": {
+            "allergens": "Cereals containing gluten, Fish, Milk, Eggs, Sulfur dioxide and sulfits, Wheat"
+          },
+          "recipes": {
+            "0": {
+              "name": "HERNE lämmin",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 300.00 kJ | Energia/Energy: 71.88 kcal | Rasva/Fat: 0.42 g | Hiilihydraatit/Carbohydrate: 9.79 g | Proteiinit/Protein: 5.31 g | Kuidut/Fibre: 3.23 g | Suola/Salt: 0.02 g"
+            },
+            "1": {
+              "name": "WALLENBERGIN KALAPIHVI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1000.00 kJ | Energia/Energy: 240.00 kcal | Rasva/Fat: 17.00 g | Hiilihydraatit/Carbohydrate: 12.00 g | Proteiinit/Protein: 14.00 g | Kuidut/Fibre: 0.00 g | Suola/Salt: 1.00 g"
+            },
+            "2": {
+              "name": "MBS TILLI-VOIKASTIKE joulu",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 279.93 kJ | Energia/Energy: 66.80 kcal | Rasva/Fat: 6.23 g | Hiilihydraatit/Carbohydrate: 2.40 g | Proteiinit/Protein: 0.42 g | Kuidut/Fibre: 0.11 g | Suola/Salt: 0.22 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, VL"
+            }
+          }
+        },
+        "5": {
+          "title_fi": "Kikherne kasviscurrya ja basmatiriisiä",
+          "title_en": "Chickpean and vegetable curry and basmati rice",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "G, M",
+          "properties": "G, M",
+          "additionalDietInfo": {
+            "allergens": "Sulfur dioxide and sulfits, Celery, Garlic"
+          },
+          "recipes": {
+            "0": {
+              "name": "BASMATI RIISI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 487.71 kJ | Energia/Energy: 115.94 kcal | Rasva/Fat: 1.27 g | Hiilihydraatit/Carbohydrate: 23.50 g | Proteiinit/Protein: 2.41 g | Kuidut/Fibre: 0.66 g | Suola/Salt: 0.36 g"
+            },
+            "1": {
+              "name": "KIKHERNE-KASVISCURRY",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 383.67 kJ | Energia/Energy: 91.78 kcal | Rasva/Fat: 5.15 g | Hiilihydraatit/Carbohydrate: 9.45 g | Proteiinit/Protein: 1.35 g | Kuidut/Fibre: 1.76 g | Suola/Salt: 0.54 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "6": {
+          "title_fi": "Vadelmarahkaa",
+          "title_en": "Raspberry quark",
+          "category": "Sweet",
+          "dietcodes": "G, L",
+          "properties": "G, L",
+          "additionalDietInfo": {
+            "allergens": "Milk, Soy beans"
+          }
+        }
+      }
+    },
+    {
+      "date": "Thursday",
+      "courses": {
+        "1": {
+          "title_fi": "\"Eat you veggies and more\" Kaikki green market tuotteet kuuluvat buffetin hintaan!",
+          "title_en": "\"Eat your veggies and more\" All green market items are included in the buffet!",
+          "category": "GREEN MARKET LUNCH BUFFET",
+          "price": "10,70 €",
+          "recipes": {
+            "0": {
+              "name": "TOMAATTI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 95.00 kJ | Energia/Energy: 23.00 kcal | Rasva/Fat: 0.30 g | Hiilihydraatit/Carbohydrate: 3.50 g | Proteiinit/Protein: 0.60 g | Kuidut/Fibre: 1.40 g | Suola/Salt: 0.00 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "2": {
+          "title_fi": "Runsas ja monipuolinen valikoima suurimmaksi osaksi kasvispohjaisia tuoreita raaka-aineita, tahnoja, kastikkeita, riportteita",
+          "title_en": "Plentiful selection of mostly plant based, fresh ingredients, spreads, sauces and sprinkles",
+          "category": "GREEN MARKET VEGGIES"
+        },
+        "3": {
+          "title_fi": "Juustoinen kukkakaalikeitto",
+          "title_en": "Cheesy cauliflower soup",
+          "category": "GREEN MARKET VEGGIE SOUP",
+          "dietcodes": "G, L",
+          "properties": "G, L",
+          "additionalDietInfo": {
+            "allergens": "Milk, Celery"
+          }
+        },
+        "4": {
+          "title_fi": "Broileria Korma, basmatiriisiä ja ananaschutneyta",
+          "title_en": "Chicken Korma, basmati rice and pineapple chutney",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "G",
+          "properties": "G",
+          "additionalDietInfo": {
+            "dietcodeImages": [
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/liha-fi-new.svg"
+            ],
+            "allergens": "Milk, Almond, Tree nuts , Celery"
+          },
+          "recipes": {
+            "0": {
+              "name": "BASMATI RIISI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 487.71 kJ | Energia/Energy: 115.94 kcal | Rasva/Fat: 1.27 g | Hiilihydraatit/Carbohydrate: 23.50 g | Proteiinit/Protein: 2.41 g | Kuidut/Fibre: 0.66 g | Suola/Salt: 0.36 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "5": {
+          "title_fi": "Palak Paneer ja basmatiriisiä",
+          "title_en": "Palak Paneer and basmati rice",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "G",
+          "properties": "G",
+          "additionalDietInfo": {
+            "allergens": "Milk, Celery"
+          },
+          "recipes": {
+            "0": {
+              "name": "BASMATI RIISI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 487.71 kJ | Energia/Energy: 115.94 kcal | Rasva/Fat: 1.27 g | Hiilihydraatit/Carbohydrate: 23.50 g | Proteiinit/Protein: 2.41 g | Kuidut/Fibre: 0.66 g | Suola/Salt: 0.36 g"
+            },
+            "1": {
+              "name": "PALAK PANEER juustocurry",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 577.29 kJ | Energia/Energy: 140.71 kcal | Rasva/Fat: 10.58 g | Hiilihydraatit/Carbohydrate: 4.40 g | Proteiinit/Protein: 6.48 g | Kuidut/Fibre: 0.15 g | Suola/Salt: 1.24 g"
+            },
+            "hideAll": {
+              "dietcodes": "G"
+            }
+          }
+        },
+        "6": {
+          "title_fi": "Lettu bufee, valitsemillasi lisukkeilla",
+          "title_en": "Pancakes with your choise of fillings",
+          "category": "Sweet",
+          "additionalDietInfo": {
+            "allergens": "Milk, Eggs, Soy beans, Wheat"
+          },
+          "recipes": {
+            "0": {
+              "name": "KERMAVAAHTO",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1285.45 kJ | Energia/Energy: 306.36 kcal | Rasva/Fat: 27.27 g | Hiilihydraatit/Carbohydrate: 12.18 g | Proteiinit/Protein: 1.64 g | Kuidut/Fibre: 0.00 g | Suola/Salt: 0.08 g"
+            },
+            "1": {
+              "name": "OHUKAISET valmiit isot",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 743.00 kJ | Energia/Energy: 178.00 kcal | Rasva/Fat: 5.90 g | Hiilihydraatit/Carbohydrate: 23.00 g | Proteiinit/Protein: 7.30 g | Kuidut/Fibre: 1.20 g | Suola/Salt: 0.87 g"
+            },
+            "2": {
+              "name": "MANSIKKAHILLO",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 840.00 kJ | Energia/Energy: 200.00 kcal | Rasva/Fat: 0.10 g | Hiilihydraatit/Carbohydrate: 50.00 g | Proteiinit/Protein: 0.20 g | Kuidut/Fibre: 1.00 g | Suola/Salt: 0.00 g"
+            },
+            "3": {
+              "name": "VALKOSUKLAAKASTIKE",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1486.99 kJ | Energia/Energy: 357.37 kcal | Rasva/Fat: 26.66 g | Hiilihydraatit/Carbohydrate: 22.21 g | Proteiinit/Protein: 7.26 g | Kuidut/Fibre: 0.00 g | Suola/Salt: 0.14 g"
+            },
+            "hideAll": {
+              "dietcodes": "G"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "Friday",
+      "courses": {
+        "1": {
+          "title_fi": "\"Eat you veggies and more\" Kaikki green market tuotteet kuuluvat buffetin hintaan!",
+          "title_en": "\"Eat your veggies and more\" All green market items are included in the buffet!",
+          "category": "GREEN MARKET LUNCH BUFFET",
+          "price": "10,70 €",
+          "recipes": {
+            "0": {
+              "name": "TOMAATTI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 95.00 kJ | Energia/Energy: 23.00 kcal | Rasva/Fat: 0.30 g | Hiilihydraatit/Carbohydrate: 3.50 g | Proteiinit/Protein: 0.60 g | Kuidut/Fibre: 1.40 g | Suola/Salt: 0.00 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "2": {
+          "title_fi": "Runsas ja monipuolinen valikoima suurimmaksi osaksi kasvispohjaisia tuoreita raaka-aineita, tahnoja, kastikkeita, riportteita",
+          "title_en": "Plentiful selection of mostly plant based, fresh ingredients, spreads, sauces and sprinkles",
+          "category": "GREEN MARKET VEGGIES"
+        },
+        "3": {
+          "title_fi": "Bataatti-papukeitto",
+          "title_en": "Sweet potato and bean soup",
+          "category": "GREEN MARKET VEGGIE SOUP",
+          "dietcodes": "G, M",
+          "properties": "G, M",
+          "additionalDietInfo": {
+            "allergens": "Celery"
+          }
+        },
+        "4": {
+          "title_fi": "Savustettua kassleria, dijon-rosmariinikastiketta,  kasviksia ja perunaa",
+          "title_en": "Smoked pork neck, dijon rosemary sauce, vegetables and potatoes",
+          "category": "GREEN MARKET AND MORE",
+          "dietcodes": "G, M",
+          "properties": "G, M",
+          "additionalDietInfo": {
+            "dietcodeImages": [
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/possu.svg",
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/liha-fi-new.svg"
+            ],
+            "allergens": "Sulfur dioxide and sulfits, Mustard"
+          },
+          "recipes": {
+            "0": {
+              "name": "KUKKAKAALI-PORKKANA lämmin",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 143.41 kJ | Energia/Energy: 34.40 kcal | Rasva/Fat: 1.33 g | Hiilihydraatit/Carbohydrate: 3.04 g | Proteiinit/Protein: 1.51 g | Kuidut/Fibre: 2.32 g | Suola/Salt: 0.05 g"
+            },
+            "1": {
+              "name": "SAVUKASLER",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1215.72 kJ | Energia/Energy: 288.22 kcal | Rasva/Fat: 25.03 g | Hiilihydraatit/Carbohydrate: 0.28 g | Proteiinit/Protein: 16.72 g | Kuidut/Fibre: 0.00 g | Suola/Salt: 0.49 g"
+            },
+            "2": {
+              "name": "DIJONSINAPPI-ROSMARIINIKASTIKE",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 109.49 kJ | Energia/Energy: 25.96 kcal | Rasva/Fat: 0.65 g | Hiilihydraatit/Carbohydrate: 2.08 g | Proteiinit/Protein: 2.84 g | Kuidut/Fibre: 0.33 g | Suola/Salt: 0.31 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "5": {
+          "title_fi": "Juustohampurilainen, paahdettua tomaattimajoneesia ja ranskalaisiaperunoita",
+          "title_en": "Cheese hamburger, roasted tomato mayonnaise and french fries",
+          "category": "From the Kitchen",
+          "dietcodes": "VL",
+          "properties": "VL",
+          "additionalDietInfo": {
+            "dietcodeImages": [
+              "https://www.sodexo.fi/sites/default/themes/sodexo/images/liha-fi-new.svg"
+            ],
+            "allergens": "Cereals containing gluten, Milk, Eggs, Beef, Mustard, Wheat"
+          },
+          "price": "10,90 €",
+          "recipes": {
+            "0": {
+              "name": "CHEESE BURGER",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 942.43 kJ | Energia/Energy: 226.35 kcal | Rasva/Fat: 13.63 g | Hiilihydraatit/Carbohydrate: 11.95 g | Proteiinit/Protein: 13.28 g | Kuidut/Fibre: 1.01 g | Suola/Salt: 1.69 g"
+            },
+            "1": {
+              "name": "RANSKALAISET PERUNAT",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 318.75 kJ | Energia/Energy: 75.94 kcal | Rasva/Fat: 0.20 g | Hiilihydraatit/Carbohydrate: 15.49 g | Proteiinit/Protein: 1.90 g | Kuidut/Fibre: 1.00 g | Suola/Salt: 0.08 g"
+            },
+            "2": {
+              "name": "PAAHDETTU TOMAATTI MAJONEESI",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1418.18 kJ | Energia/Energy: 346.75 kcal | Rasva/Fat: 35.56 g | Hiilihydraatit/Carbohydrate: 4.33 g | Proteiinit/Protein: 1.03 g | Kuidut/Fibre: 0.97 g | Suola/Salt: 1.32 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "6": {
+          "title_fi": "Mustapapu hampurilainen, vegaanimajoneesia ja ranskalaiset",
+          "title_en": "Blackbean burger, vegan mayonnaise and french fries",
+          "category": "From the Kitchen",
+          "dietcodes": "L",
+          "properties": "L",
+          "additionalDietInfo": {
+            "allergens": "Cereals containing gluten, Milk, Celery, Mustard, Wheat"
+          },
+          "price": "10,90 €",
+          "recipes": {
+            "0": {
+              "name": "RANSKALAISET PERUNAT",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 318.75 kJ | Energia/Energy: 75.94 kcal | Rasva/Fat: 0.20 g | Hiilihydraatit/Carbohydrate: 15.49 g | Proteiinit/Protein: 1.90 g | Kuidut/Fibre: 1.00 g | Suola/Salt: 0.08 g"
+            },
+            "1": {
+              "name": "vegaani KASTIKE CHILIMAJONEESI ",
+              "ingredients": [],
+              "nutrients": "Energia/Energy: 1665.11 kJ | Energia/Energy: 401.28 kcal | Rasva/Fat: 38.81 g | Hiilihydraatit/Carbohydrate: 12.26 g | Proteiinit/Protein: 0.57 g | Kuidut/Fibre: 0.13 g | Suola/Salt: 1.31 g"
+            },
+            "hideAll": {
+              "dietcodes": "G, M"
+            }
+          }
+        },
+        "7": {
+          "title_fi": "Mustikkahyve",
+          "title_en": "Blueberry dessert",
+          "category": "Sweet",
+          "dietcodes": "L",
+          "properties": "L",
+          "additionalDietInfo": {
+            "allergens": "Oat, Milk, Barley, Rye, Soy beans"
+          }
+        }
+      }
+    }
+  ]
+}
