@@ -42,9 +42,9 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
       var output: String = """
                              |
                              |
-                             |""".stripMargin + "   MONDAY" + """
-                                                                |
-                                                                |""".stripMargin
+                             |""".stripMargin + "                 MONDAY" + """
+                                                                              |
+                                                                              |""".stripMargin
       var index: Int = 1
        breakable
        {
@@ -58,7 +58,7 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
            output(2)(1) = diet
            println(output(2)(1))*/
            if (title == "n/a") break
-           output += "     - " + course +
+           output += "                    - " + course +
              """
                |
                |
