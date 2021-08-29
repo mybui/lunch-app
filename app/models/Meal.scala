@@ -1,6 +1,20 @@
 package models
 
 class Meal(title: String, price: String, diet: String, allergy: String) {
+  def filterDiet(info: String): Boolean = {
+    if (diet.contains(info)) {
+      return true
+    }
+    return false
+  }
+
+  def filterAllergy(info: String): Boolean = {
+    if (allergy.contains(info)) {
+      return true
+    }
+    return false
+  }
+
   override def toString(): String = {
     return title.replace("\"", "").replace("\\", "").replace("!", "") +
       """
