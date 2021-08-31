@@ -1,7 +1,7 @@
 ### Launch app
-cd sbt-run
-sbt
-~run
+- cd sbt-run
+- sbt
+- ~run
 
 ### Query by parameters "duration", "location", and "allergy" via a browser
 #### Parameter "duration" possible values:
