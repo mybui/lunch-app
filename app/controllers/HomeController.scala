@@ -109,7 +109,9 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
             break()
           }
 
-          if (allergyInfo.toString().toLowerCase() == "0") {
+          println(allergyInfo)
+
+          if (allergyInfo.toString().toLowerCase() == "") {
             output += "                    - " + course +
               """
                  |
