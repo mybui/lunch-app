@@ -1,5 +1,3 @@
-# Lunch App
-
 ### Launch app
 cd sbt-run
 sbt
