@@ -8,7 +8,7 @@
 - "monday", "tuesday", "wednesday", "thursday", and "friday" for menu by day
 - "week" for menu by current week
 - return "n/a" if left blank
-- ####localhost:9000/menu?location=innopoli&duration=week&allergy=
+- localhost:9000/menu?location=innopoli&duration=week&allergy=
 - localhost:9000/menu?location=kvarkki&duration=tuesday&allergy=milk
 
 
